@@ -1,3 +1,4 @@
+maciek.rybak 21@op.pl
 # Eth validate Maciej rybak 0xF862bdCe3c14D7A3c1E277D3c49a3C5EcB615c09
 This tool is to validate transaction, address and token balance from public ethereum nodes
 
